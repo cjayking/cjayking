@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chijioke Onwuvuariri
-- 👀 I’m interested in Cybersecurity, IT Support and Prohramming
+- 👀 I’m interested in Cybersecurity, IT Support and Programming
 - 🌱 I’m currently learning Network Security, Linux, Python, Automation, Detection and Security Frameworks
 - 💞️ I’m looking forward to get certified on Security Plus and Ethical hacking
 - 📫 How to reach me ...
